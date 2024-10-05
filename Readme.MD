@@ -18,3 +18,36 @@ This project is a responsive website built using **HTML**, **CSS**, **JavaScript
 - **CSS3**: For styling the website and ensuring responsiveness.
 - **JavaScript**: For dynamic behavior and interactivity.
 - **Bootstrap 5**: For layout and components, including the responsive navbar, grid system, and modal.
+
+## Steps to Install
+
+1. **Clone the Repository**
+
+   Open your terminal or command prompt and run the following command to clone the project to your local machine:
+
+   ```bash
+   git clone https://github.com/Meehnaaz-Basit/steadfast_html_task.git
+
+   ```
+
+   2. **Navigate to the Project Directory**
+
+Change your working directory to the project folder:
+
+Copy code
+
+```bash
+cd steadfast_html_task
+```
+
+3. **Open the Project in VS Code**
+
+Launch the project folder in VS Code:
+
+Copy code
+
+```bash
+code .
+```
+
+4. **Run the Project**
