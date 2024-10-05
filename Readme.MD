@@ -30,7 +30,7 @@ This project is a responsive website built using **HTML**, **CSS**, **JavaScript
 
    ```
 
-   2. **Navigate to the Project Directory**
+2. **Navigate to the Project Directory**
 
 Change your working directory to the project folder:
 
